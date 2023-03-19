@@ -7,7 +7,7 @@
   If you choose to be a candidate you should enter your username and password. They can be whatever you want. After that, you can select a category. Categories are like this: Hard (History), Medium (Sports), and Easy (Animals). After selecting your category, you should choose your question set. After you answer the questions, you should click the submit button to see your score (Max score 50).
   
   This program made by: 
-  İrem Gökçe Dönmez
-  Zehra Demirtaş
-  Poyraz Arı
+  İrem Gökçe Dönmez,
+  Zehra Demirtaş,
+  Poyraz Arı,
   Hazar Alpay
