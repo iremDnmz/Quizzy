@@ -1,6 +1,6 @@
 # Quizzy
 
-  This is a quiz application. When you run the program there are two options you can choose. Admin and candidate. 
+  This is a quiz application written with Java language in eclipse. When you run the program there are two options you can choose. Admin and candidate. 
   
   If you choose to be an admin you have to enter a solid username and password to continue (username: 1, password: 1). After that, you can read the candidate info from the file. With these pieces of information, you can search, add, remove, and update candidates with specific buttons. Also, you can display information about candidates. If you change any information, it is possible to save these changes to the file with the "write to file" button. You can also clear the display screen.
   
