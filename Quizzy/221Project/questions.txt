@@ -1,0 +1,30 @@
+Which country had a neutral policy in World War I?,a,Sweden%France%Germany
+Which country entered World war I in 1917?,c,Russia%Turkey%The US
+Who declared war on Japan in World War I?,b,Germany%Austria%Turkey
+Which country was not from the allied states during World War I?,a,Turkey%France%Japan
+Which country was not from central powers during World War I?,b,Germany%The UK%Austria-Hungary
+Who attacked Pearl Harbor?,a,Japan%U.S%Great Britian
+Which country was the atomic bomb dropped on in World War II?,b,Germany%Japan%South Korea
+Which event began World War II?,c,Pearl Harbor%Battle of Britian%Invasion of Poland
+Who was the leader of the Soviet Union during World War II?,a,Stalin%Lenin%Trotsky
+What was the name of the B-29 bomber that dropped the first atomic bomb on Hiroshima?,c,Little Boy%Fat Man%Enola Gay
+Which country won the FIFA World Cup Qatar 2022?,b,Portugal%Argentina%France
+Which football player does the word "Suii" belongs to?,a,Cristiano Ronaldo%Mohamed Salah%Erling Haaland
+Who has won the most Ballons d'Or award?,c,Cristiano Ronaldo%Robert Lewandowski%Lionel Messi
+Which football player owns the goal called "The hand of God"?,c,Pele%Zidane%Maradona
+Which football player was not in the legendary Milan squad?,a,Ronaldinho%Kaka%Shevchenko
+Which NBA player is the best shooter of all time?,b,Damian Lillard%Stephen Curry%Ray Allen
+Who was the first player to hit a triple-double with 60 points?,a,Luka Doncic%Russell Westbrook%Magic Johnson
+Which NBA player holds the record for scoring the highest points in a single game?,c,Kobe Bryant%Devin Booker%Wilt Chamberlain
+Which NBA player is in the figure of original NBA logo?,a,Jerry West%Dirk Nowitzki%Bill Russell
+How long are NBA quarters?,b,14 Minutes%12 Minutes%10 Minutes
+Which dog breed is the smartest?,a,Border Collie%Poodle%German Shepherd
+Which dog breed is the fastest?,a,Greyhound%German Shepherd%Afghan Hound
+Which dog breed is the smallest?,c,Pomerianian%Pug%Chihuahua
+Which cat breed is hairless?,b,Bombay%Sphynx%Bambino
+Which cat breed is the smartest,b,Siamese%Abyssinian%Scottish Fold
+Which animal is the smartest?,c,Chimpanzee%Dolphins%Orangutans
+Which animal is the fastest?,b,Quarter Horse%Cheetah%Lion
+Which animal is the strongest on land?,a,Elephants%Rhinos%Grizzly Bear
+Which animal is the biggest as humans know?,a,Blue Whale%Fin Whale%Megalodon
+Which animal specie is extinct as humans know?,c,Hyaena%Panda%Dodo Bird

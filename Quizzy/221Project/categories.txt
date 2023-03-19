@@ -1,0 +1,6 @@
+Hard,History,WW2
+Hard,History,WW1
+Medium,Sports,Soccer
+Medium,Sports,NBA
+Easy,Animals,Pets
+Easy,Animals,Wild Animals
